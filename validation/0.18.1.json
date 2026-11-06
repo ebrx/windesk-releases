@@ -5,8 +5,8 @@
   "publicReleaseAuthorized": true,
   "package": {
     "fileName": "WinDesk-0.18.1-preview-windows-x64.zip",
-    "bytes": 245307697,
-    "sha256": "01963a3179ded01b4fb1cd82937c57388c6792113e22e27d4a7a35e611d6d7e2",
+    "bytes": 245309078,
+    "sha256": "421999391deeedbe325484bca829de0439ede702d8205bbfe325a92af47675e9",
     "fileCount": 19,
     "fileHashes": {
       "licenses/sqlite.md": "08a8de7c828d282bdc15c39865156ffcdfd6117b43382dffd26309250d5fab94",
@@ -24,8 +24,8 @@
       "WinDeskContent.exe": "fc156bf04334c69d7df5ff7cfcbb8a406e882919945d848007a18f5533fe428d",
       "WinDeskSemanticGpu.exe": "0d0b87f1c4b342d7071dcf621ddc5ae7557e5675e11281419a5eb69b1d8c519b",
       "THIRD_PARTY.md": "bacb83d1a2fa89888f00e1217ba27e2e6c274e2f598d4d743929fd5a8ae46d2a",
-      "USERGUIDE.md": "e14dec9249cabe047c965cb57e2755e00ce87b3cb2583adec17692fa28573360",
-      "ACTIVATION.md": "190a71d7116cf20bcda0a396dffd229d1abf9ba459534b3a67a0104a62dcd5ef",
+      "USERGUIDE.md": "c01062b3e5863d965a9b28fc8c3b87d75f7bc1043cdd2a5f38dd4d23f397a08a",
+      "ACTIVATION.md": "e0707cf8581be06e90afd9b2b391bf434b07857681d4a26ff556d0e852cf7813",
       "FREEWARE-LICENSE.txt": "2e118bfd1326c55845678b363f8d83cd831ff2e5549dea8d3198f508dfe1b0a7",
       "START-HERE.txt": "83eaa6c90d678e0a4d2c709b2ba2ddf3a955a49c32d83289bade2c09c403c5e8"
     }
@@ -37,7 +37,8 @@
     "programAndModelBytesMatchTestedPreview": true,
     "publicDocumentationScan": "passed",
     "sourceCodeIncluded": false,
-    "privateIssuerIncluded": false
+    "privateIssuerIncluded": false,
+    "bundledTutorialLinks": "absolute public documentation URLs"
   },
   "developmentRegression": {
     "debugCoreTests": 15,
