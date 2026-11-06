@@ -25,7 +25,7 @@
 
 ![WinDesk 产品介绍：本地查找、用途搜索、整理前预览。码上实现 Code It Real 第二期作品。](images/windesk-banner.png)
 
-作者：**码上实现 / Code It Real**。上图是产品介绍；[功能演示](DEMO.md)使用实际窗口、独立配置和模拟资料，重点介绍“不输入文件名，描述用途找文件”，再依次说明后台处理、保护、整理、改名与撤销。录屏准备核对后开放视频入口。
+作者：**码上实现 / Code It Real**。上图是产品介绍；[功能演示](DEMO.md)使用实际窗口、独立配置和模拟资料，重点介绍“不输入文件名，描述用途找文件”，再依次说明后台处理、保护、整理、改名与撤销。配音录屏已制作，目前供作者本地审阅；公开视频入口待审阅后补充。
 
 - **免费领码、联系作者：** [ebrx@vip.qq.com](mailto:ebrx@vip.qq.com)，或从 [B站作者主页](https://space.bilibili.com/481835793)私信，附软件生成的机器码。无需付费或注册在线账号。
 - **问题反馈：** [GitHub Issues](https://github.com/ebrx/windesk-releases/issues) 或邮件。请附 Windows 版本、应用版本、具体操作和错误文字；界面问题补充主题、缩放与脱敏截图。
