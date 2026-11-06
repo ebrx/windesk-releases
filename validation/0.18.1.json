@@ -1,0 +1,62 @@
+{
+  "version": "0.18.1",
+  "recordedOn": "2026-11-06",
+  "channel": "development-preview",
+  "publicReleaseAuthorized": true,
+  "package": {
+    "fileName": "WinDesk-0.18.1-preview-windows-x64.zip",
+    "bytes": 245307697,
+    "sha256": "01963a3179ded01b4fb1cd82937c57388c6792113e22e27d4a7a35e611d6d7e2",
+    "fileCount": 19,
+    "fileHashes": {
+      "licenses/sqlite.md": "08a8de7c828d282bdc15c39865156ffcdfd6117b43382dffd26309250d5fab94",
+      "semantic/BGE-LICENSE.txt": "587a673933425dbc36ec61268d3b954051b2d3ef3c9b322ede357976055ffdd5",
+      "semantic/model.onnx": "5e5619f7cca7380b824d329c157dba10bee7cc00d0c139e82fdb7906051b8e4f",
+      "semantic/msvcp140.dll": "0f885b509a685d2bbfa652fed26b5fb31d88fbdab0a978c641d1c7b8aa460aa9",
+      "semantic/msvcp140_1.dll": "bfad5aef4c63a669e3c140655cdfdf395b6c979b400a447bd5dcb65ed8826c3d",
+      "semantic/ONNXRUNTIME-LICENSE.txt": "c250d6278f0b47a6439fb7592b08b58a55eb9f535aa49a1db63211c3f982b674",
+      "semantic/ONNXRUNTIME-NOTICES.txt": "c53a76501ef60db6f865f20599f220761201ac4057683acefdab37d861b86622",
+      "semantic/onnxruntime.dll": "0c42dc4e278f0968fdf9ebf1b1e54a74c657a9942e70803e453c91993451cf4c",
+      "semantic/vcruntime140.dll": "d5e4d9a3e835fa679450145d6a7d94e36573a509317111904d9b3712c30d9066",
+      "semantic/vcruntime140_1.dll": "1f2d41c4aa5db0bc33ebf7b66d72943a817d7ce6cbe880502a9403823633093f",
+      "semantic/vocab.txt": "45bbac6b341c319adc98a532532882e91a9cefc0329aa57bac9ae761c27b291c",
+      "WinDesk.exe": "f31223ecdaad5a5e7d8521dc96178964cc35213cdb412a50c5883e3f27c2beb3",
+      "WinDeskContent.exe": "fc156bf04334c69d7df5ff7cfcbb8a406e882919945d848007a18f5533fe428d",
+      "WinDeskSemanticGpu.exe": "0d0b87f1c4b342d7071dcf621ddc5ae7557e5675e11281419a5eb69b1d8c519b",
+      "THIRD_PARTY.md": "bacb83d1a2fa89888f00e1217ba27e2e6c274e2f598d4d743929fd5a8ae46d2a",
+      "USERGUIDE.md": "e14dec9249cabe047c965cb57e2755e00ce87b3cb2583adec17692fa28573360",
+      "ACTIVATION.md": "190a71d7116cf20bcda0a396dffd229d1abf9ba459534b3a67a0104a62dcd5ef",
+      "FREEWARE-LICENSE.txt": "2e118bfd1326c55845678b363f8d83cd831ff2e5549dea8d3198f508dfe1b0a7",
+      "START-HERE.txt": "83eaa6c90d678e0a4d2c709b2ba2ddf3a955a49c32d83289bade2c09c403c5e8"
+    }
+  },
+  "checks": {
+    "crc": "passed",
+    "allowlist": "passed",
+    "allFileHashes": "passed",
+    "programAndModelBytesMatchTestedPreview": true,
+    "publicDocumentationScan": "passed",
+    "sourceCodeIncluded": false,
+    "privateIssuerIncluded": false
+  },
+  "developmentRegression": {
+    "debugCoreTests": 15,
+    "releaseCoreTests": 15,
+    "nativeWorkflows": [
+      "SearchWorkflow",
+      "ReorganizationUi",
+      "ProtectionUi",
+      "LibraryUi"
+    ],
+    "publicRetrievalExamples": 84,
+    "publicRetrievalNoAnswerExamples": 6,
+    "independentAccuracyBenchmark": false
+  },
+  "limits": [
+    "Development preview, not a stability certification.",
+    "Unsigned; clean-machine installation and minimum hardware not certified.",
+    "No OCR or image/audio/video understanding.",
+    "Directory reorganization only same-volume local NTFS; undo has conditions.",
+    "Public package changes documentation only, with identical tested program/model bytes."
+  ]
+}

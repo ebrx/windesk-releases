@@ -1,0 +1,20 @@
+{
+  "product": "WinDesk",
+  "version": "0.18.1",
+  "channel": "development-preview",
+  "platform": "windows-x64",
+  "status": "upload-pending",
+  "published": false,
+  "recordedOn": "2026-11-06",
+  "downloadUrl": null,
+  "asset": {
+    "fileName": "WinDesk-0.18.1-preview-windows-x64.zip",
+    "bytes": 245307697,
+    "sha256": "01963a3179ded01b4fb1cd82937c57388c6792113e22e27d4a7a35e611d6d7e2"
+  },
+  "contact": {
+    "email": "ebrx@vip.qq.com",
+    "bilibili": "https://space.bilibili.com/481835793"
+  },
+  "note": "Public preview authorized. Download remains unavailable until upload and re-download verification complete."
+}

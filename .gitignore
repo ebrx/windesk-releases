@@ -1,0 +1,8 @@
+*.zip
+*.exe
+*.dll
+*.sqlite*
+*.license
+*.dpapi
+*.pem
+*.key
