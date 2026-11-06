@@ -4,18 +4,20 @@
 
 ## 下载体验版
 
-**0.18.1 开发预览版正在准备上传。** 下载入口将在附件上传及重新下载校验通过后开放；目前可先阅读教程与激活说明。
+[**下载体验版（GitHub Releases）**](https://github.com/ebrx/windesk-releases/releases/tag/v0.18.1-preview)
+
+**这是开发预览版，建议先用测试文件夹或真实资料副本体验。** 软件、快速开始与激活说明均可直接下载；首次使用向作者免费领码。
 
 | 项目 | 内容 |
 | --- | --- |
 | 当前版本 | **0.18.1 开发预览版** |
-| 体验文件 | `WinDesk-0.18.1-preview-windows-x64.zip`（上传核对后提供下载） |
+| 体验文件 | [WinDesk-0.18.1-preview-windows-x64.zip](https://github.com/ebrx/windesk-releases/releases/download/v0.18.1-preview/WinDesk-0.18.1-preview-windows-x64.zip) |
 | 适用范围 | Windows 11 x64；最低配置、纯净新机和全部显示环境尚未认证 |
 | 包含组件 | 主应用、正文提取组件、本地中文语义模型与运行时、可选 GPU 组件 |
-| 完整性校验 | 上传核对后提供 `SHA256SUMS`；[当前包信息](downloads/latest.json) |
+| 完整性校验 | [SHA256SUMS](https://github.com/ebrx/windesk-releases/releases/download/v0.18.1-preview/SHA256SUMS)；[当前包信息](downloads/latest.json) |
 | 授权 | 免费、永久、离线、机器码绑定；[领取步骤](ACTIVATION.md) |
 
-**新用户只下载体验 ZIP，完整解压后运行 `WinDesk.exe`。** GitHub 的 `Source code` 是本说明仓库归档，不是软件安装包。包内包含使用教程和激活说明。
+**新用户只下载体验 ZIP，完整解压后运行 `WinDesk.exe`。** GitHub 的 `Source code` 是本说明仓库归档，不是软件安装包。包内包含使用教程和激活说明，也可单独下载[快速开始](https://github.com/ebrx/windesk-releases/releases/download/v0.18.1-preview/WinDesk-0.18.1-Quick-Start.txt)与[免费激活说明](https://github.com/ebrx/windesk-releases/releases/download/v0.18.1-preview/WinDesk-0.18.1-Activation.txt)。
 
 [使用教程](GETTING-STARTED.md) · [功能演示](DEMO.md) · [安装顺序](INSTALLATION.md) · [获取激活码](ACTIVATION.md) · [测试通过情况](TESTED.md) · [常见问题](FAQ.md) · [更新记录](RELEASE-NOTES.md)
 

@@ -38,7 +38,12 @@
     "publicDocumentationScan": "passed",
     "sourceCodeIncluded": false,
     "privateIssuerIncluded": false,
-    "bundledTutorialLinks": "absolute public documentation URLs"
+    "bundledTutorialLinks": "absolute public documentation URLs",
+    "independentPackageAudit": "passed",
+    "independentDraftAssetAudit": "passed",
+    "publicDownloads": "passed",
+    "sourceRepositoryStillPrivate": true,
+    "publicRepositoryHistory": "documentation only"
   },
   "developmentRegression": {
     "debugCoreTests": 15,
@@ -59,5 +64,56 @@
     "No OCR or image/audio/video understanding.",
     "Directory reorganization only same-volume local NTFS; undo has conditions.",
     "Public package changes documentation only, with identical tested program/model bytes."
-  ]
+  ],
+  "publicRelease": {
+    "url": "https://github.com/ebrx/windesk-releases/releases/tag/v0.18.1-preview",
+    "prerelease": true,
+    "draft": false,
+    "downloadVerification": {
+      "result": "passed",
+      "recordedOn": "2026-11-06",
+      "files": [
+        {
+          "fileName": "WinDesk-0.18.1-preview-windows-x64.zip",
+          "url": "https://github.com/ebrx/windesk-releases/releases/download/v0.18.1-preview/WinDesk-0.18.1-preview-windows-x64.zip",
+          "httpStatus": 200,
+          "bytes": 245309078,
+          "sha256": "421999391deeedbe325484bca829de0439ede702d8205bbfe325a92af47675e9",
+          "matchesUploadedLocalFile": true,
+          "credentialSent": false,
+          "seconds": 21.87
+        },
+        {
+          "fileName": "WinDesk-0.18.1-Quick-Start.txt",
+          "url": "https://github.com/ebrx/windesk-releases/releases/download/v0.18.1-preview/WinDesk-0.18.1-Quick-Start.txt",
+          "httpStatus": 200,
+          "bytes": 1580,
+          "sha256": "83eaa6c90d678e0a4d2c709b2ba2ddf3a955a49c32d83289bade2c09c403c5e8",
+          "matchesUploadedLocalFile": true,
+          "credentialSent": false,
+          "seconds": 2.74
+        },
+        {
+          "fileName": "WinDesk-0.18.1-Activation.txt",
+          "url": "https://github.com/ebrx/windesk-releases/releases/download/v0.18.1-preview/WinDesk-0.18.1-Activation.txt",
+          "httpStatus": 200,
+          "bytes": 2321,
+          "sha256": "a06cd22c69f07274a9206e58fc0619972ad7b2dd85bdda83c274389e4687accf",
+          "matchesUploadedLocalFile": true,
+          "credentialSent": false,
+          "seconds": 2.73
+        },
+        {
+          "fileName": "SHA256SUMS",
+          "url": "https://github.com/ebrx/windesk-releases/releases/download/v0.18.1-preview/SHA256SUMS",
+          "httpStatus": 200,
+          "bytes": 298,
+          "sha256": "a60203b64ec53813386def608beaf9eb7ac5c2ae8ff58886ad268acae0e69091",
+          "matchesUploadedLocalFile": true,
+          "credentialSent": false,
+          "seconds": 2.71
+        }
+      ]
+    }
+  }
 }
