@@ -16,6 +16,6 @@
     "email": "ebrx@vip.qq.com",
     "bilibili": "https://space.bilibili.com/481835793"
   },
-  "note": "Public development preview. Release asset checksum confirmed. Anonymous full-download verification is in progress.",
+  "note": "Public development preview. All four complete anonymous downloads verified against SHA-256.",
   "releaseUrl": "https://github.com/ebrx/windesk-releases/releases/tag/v0.19.1-preview"
 }

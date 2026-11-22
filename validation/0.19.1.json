@@ -1,0 +1,40 @@
+{
+  "version": "0.19.1",
+  "channel": "development-preview",
+  "system": "Windows 11 x64",
+  "published": true,
+  "recordedOn": "2026-11-22",
+  "prerelease": true,
+  "releaseUrl": "https://github.com/ebrx/windesk-releases/releases/tag/v0.19.1-preview",
+  "anonymousFullDownloads": [
+    {
+      "fileName": "WinDesk-0.19.1-preview-windows-x64.zip",
+      "bytes": 245640327,
+      "sha256": "cefb8b1605e3b430119581ce4fdb212ec1f73c7ff4553c100d7d76a9e90aecc9",
+      "http": 206,
+      "url": "https://github.com/ebrx/windesk-releases/releases/download/v0.19.1-preview/WinDesk-0.19.1-preview-windows-x64.zip",
+      "downloadMethod": "anonymous complete download assembled from validated HTTP 206 ranges"
+    },
+    {
+      "fileName": "WinDesk-0.19.1-Quick-Start.txt",
+      "bytes": 1143,
+      "sha256": "d4a4cf20c29ef426d9fb333269e234e0b6403341e7aa848f90a75f7797654b18",
+      "http": 200,
+      "url": "https://github.com/ebrx/windesk-releases/releases/download/v0.19.1-preview/WinDesk-0.19.1-Quick-Start.txt"
+    },
+    {
+      "fileName": "WinDesk-0.19.1-Activation.txt",
+      "bytes": 854,
+      "sha256": "53772acd728a6f665a0cc2a2e80a56aa0f7a23fe3bbb708362f94ed3403a0094",
+      "http": 200,
+      "url": "https://github.com/ebrx/windesk-releases/releases/download/v0.19.1-preview/WinDesk-0.19.1-Activation.txt"
+    },
+    {
+      "fileName": "SHA256SUMS",
+      "bytes": 298,
+      "sha256": "28d2cf5d6791542bb6035ff4186bdacfae24ad220d41703cf5685254e98ded62",
+      "http": 200,
+      "url": "https://github.com/ebrx/windesk-releases/releases/download/v0.19.1-preview/SHA256SUMS"
+    }
+  ]
+}
