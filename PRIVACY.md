@@ -2,7 +2,7 @@
 
 [首页](README.md) · [快速开始](GETTING-STARTED.md) · [免费激活](ACTIVATION.md) · [AI 与性能](AI.md) · [已知限制](KNOWN-LIMITATIONS.md) · [验证范围](TESTED.md)
 
-**0.19.1 Windows 开发预览发布草稿，`published=false`。本文尚未公开，不代表新版已可下载。公开可用状态以[项目 Releases](https://github.com/ebrx/windesk-releases/releases)中的对应版本条目为准，既有公开版本及其记录保留。**
+**适用版本：WinDesk 0.19.1 Windows 开发预览版。**
 
 基础索引、用途搜索和恢复记录在本机处理；索引可能保存名称、路径、提取正文与向量。建议缓存、人工决定和恢复日志各有用途，清缓存不等于删除全部历史，也不应删除原文件或有效恢复记录。
 
@@ -12,4 +12,4 @@
 
 激活由使用者自行联系作者申请，客户端离线验签，不要求密码、证件或原始硬件序列号，不为激活自动上传文件。反馈请只附版本、步骤、错误文字与脱敏截图，不要公开机器码或激活码，也不要发送 API 密钥、私人索引和整批业务文件。
 
-最终发行包须按文件白名单、许可和隐私扫描逐项核对后再提供下载，本稿不提前认定包或匿名下载校验已经通过。联系：[ebrx@vip.qq.com](mailto:ebrx@vip.qq.com)。
+发布附件和校验记录见[对应 Release](https://github.com/ebrx/windesk-releases/releases/tag/v0.19.1-preview)。联系：[ebrx@vip.qq.com](mailto:ebrx@vip.qq.com)。

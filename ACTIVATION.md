@@ -1,6 +1,6 @@
 # WinDesk 0.19.1 Windows 开发预览：免费激活
 
-码上实现 / Code It Real 第二期作品。本说明随开发预览候选包提供；**本包为 Windows 开发预览版本，公开可用状态以对应 Releases 条目为准**。下载及外置 SHA-256 校验记录以[项目 Releases](https://github.com/ebrx/windesk-releases/releases)中的对应版本条目为准。
+码上实现 / Code It Real。适用于 [0.19.1 Windows 开发预览版](https://github.com/ebrx/windesk-releases/releases/tag/v0.19.1-preview)。
 
 **软件免费，首次使用直接激活，没有试用倒计时、收费或订阅。** 激活用于联系早期用户和收集真实反馈。激活码绑定软件生成的本机机器码，不设到期时间，客户端离线验签，无须注册在线账号。
 
