@@ -1,21 +1,21 @@
 {
   "product": "WinDesk",
-  "version": "0.18.1",
+  "version": "0.19.1",
   "channel": "development-preview",
   "platform": "windows-x64",
   "status": "public-preview",
   "published": true,
-  "recordedOn": "2026-11-06",
-  "downloadUrl": "https://github.com/ebrx/windesk-releases/releases/download/v0.18.1-preview/WinDesk-0.18.1-preview-windows-x64.zip",
+  "recordedOn": "2026-11-22",
+  "downloadUrl": "https://github.com/ebrx/windesk-releases/releases/download/v0.19.1-preview/WinDesk-0.19.1-preview-windows-x64.zip",
   "asset": {
-    "fileName": "WinDesk-0.18.1-preview-windows-x64.zip",
-    "bytes": 245309078,
-    "sha256": "421999391deeedbe325484bca829de0439ede702d8205bbfe325a92af47675e9"
+    "fileName": "WinDesk-0.19.1-preview-windows-x64.zip",
+    "bytes": 245640327,
+    "sha256": "cefb8b1605e3b430119581ce4fdb212ec1f73c7ff4553c100d7d76a9e90aecc9"
   },
   "contact": {
     "email": "ebrx@vip.qq.com",
     "bilibili": "https://space.bilibili.com/481835793"
   },
-  "note": "Public development preview. Anonymous full downloads verified against SHA-256. Not a stable-version compatibility certification.",
-  "releaseUrl": "https://github.com/ebrx/windesk-releases/releases/tag/v0.18.1-preview"
+  "note": "Public development preview. Release asset checksum confirmed. Anonymous full-download verification is in progress.",
+  "releaseUrl": "https://github.com/ebrx/windesk-releases/releases/tag/v0.19.1-preview"
 }
