@@ -2,7 +2,7 @@
 
 [返回 WinDesk 首页](README.md)
 
-WinDesk 按[免费使用授权](FREEWARE-LICENSE.txt)提供，主程序源码保持私有，未指定开源许可证。免费激活不等于授予源代码、品牌或第三方材料的再许可。
+WinDesk 按[免费使用授权](FREEWARE-LICENSE.txt)提供。下列第三方组件适用各自的许可证。
 
 | 组件 | 用途 | 来源与许可 |
 | --- | --- | --- |

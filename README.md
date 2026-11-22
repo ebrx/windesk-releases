@@ -9,8 +9,6 @@ WinDesk 是免费的 Windows 文件查找与整理工具。只记得文件用途
 - [下载 Windows x64 ZIP](https://github.com/ebrx/windesk-releases/releases/download/v0.19.1-preview/WinDesk-0.19.1-preview-windows-x64.zip) · [Release 更新记录](https://github.com/ebrx/windesk-releases/releases/tag/v0.19.1-preview) · [SHA-256 校验](https://github.com/ebrx/windesk-releases/releases/download/v0.19.1-preview/SHA256SUMS)
 - [解压、更新与校验](INSTALLATION.md) · [免费激活](ACTIVATION.md) · [快速开始](GETTING-STARTED.md)
 
-请下载 Windows ZIP 附件。GitHub 的 **Source code** 对应此说明仓库的归档。
-
 ## 从这里开始
 
 1. 退出旧版托盘进程，完整解压 ZIP，运行 `WinDesk.exe`。
